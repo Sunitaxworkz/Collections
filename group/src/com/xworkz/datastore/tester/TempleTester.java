@@ -10,7 +10,7 @@ public class TempleTester {
 
 	public static void main(String[] args) {
 		TempleDTO temple1 = new TempleDTO(1, "Badrinath Temple", "Chamoli", 50, "Payasa", 7, true, "srinivasa",
-				false);
+			false);
 		TempleDTO temple2 = new TempleDTO(2, "Nuggikeri Temple", "Dharwad", 20, "Puliyogare", 3, true, "Anjaneya", true);
 		TempleDTO temple3 = new TempleDTO(3, "Tirupati", "AndraPradesh", 200, "Laddu", 6, true,"Shrinivasa", true);
 		TempleDTO temple4 = new TempleDTO(4, "Vinayak Temple", "Belagavi", 30, "Payasa", 5, false, "Ganesha",false);
